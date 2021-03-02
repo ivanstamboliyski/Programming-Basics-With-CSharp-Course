@@ -1,0 +1,10 @@
+C:\Users\Ivan\source\repos\01.FirstStepsInCoding\01.FirstStepsInCoding\bin\Debug\netcoreapp3.1\01.Hello SoftUni.exe
+C:\Users\Ivan\source\repos\01.FirstStepsInCoding\01.FirstStepsInCoding\bin\Debug\netcoreapp3.1\01.Hello SoftUni.deps.json
+C:\Users\Ivan\source\repos\01.FirstStepsInCoding\01.FirstStepsInCoding\bin\Debug\netcoreapp3.1\01.Hello SoftUni.runtimeconfig.json
+C:\Users\Ivan\source\repos\01.FirstStepsInCoding\01.FirstStepsInCoding\bin\Debug\netcoreapp3.1\01.Hello SoftUni.runtimeconfig.dev.json
+C:\Users\Ivan\source\repos\01.FirstStepsInCoding\01.FirstStepsInCoding\bin\Debug\netcoreapp3.1\01.Hello SoftUni.dll
+C:\Users\Ivan\source\repos\01.FirstStepsInCoding\01.FirstStepsInCoding\bin\Debug\netcoreapp3.1\01.Hello SoftUni.pdb
+C:\Users\Ivan\source\repos\01.FirstStepsInCoding\01.FirstStepsInCoding\obj\Debug\netcoreapp3.1\01.Hello SoftUni.AssemblyInfoInputs.cache
+C:\Users\Ivan\source\repos\01.FirstStepsInCoding\01.FirstStepsInCoding\obj\Debug\netcoreapp3.1\01.Hello SoftUni.AssemblyInfo.cs
+C:\Users\Ivan\source\repos\01.FirstStepsInCoding\01.FirstStepsInCoding\obj\Debug\netcoreapp3.1\01.Hello SoftUni.dll
+C:\Users\Ivan\source\repos\01.FirstStepsInCoding\01.FirstStepsInCoding\obj\Debug\netcoreapp3.1\01.Hello SoftUni.pdb
