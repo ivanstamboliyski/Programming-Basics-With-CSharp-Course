@@ -2,7 +2,7 @@
 <html>
 <body>
 
-<h1>ProgrammingBasicsCourse</h1>
+<h1></h1>
 
 <p><a href="https://softuni.bg/trainings/2808/programming-basics-with-c-sharp-march-2020">ProgrammingBasicsCourse</a></p>
 
