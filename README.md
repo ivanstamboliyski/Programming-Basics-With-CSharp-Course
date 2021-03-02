@@ -1,5 +1,5 @@
 
-# ProgrammingBasicsCourse
+# Programming Basics Course
 
 ------------
 
