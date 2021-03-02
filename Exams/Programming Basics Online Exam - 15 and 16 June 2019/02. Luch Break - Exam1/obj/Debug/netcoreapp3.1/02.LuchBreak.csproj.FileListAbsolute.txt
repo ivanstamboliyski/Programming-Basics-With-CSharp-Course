@@ -1,0 +1,13 @@
+C:\Users\i_van\source\repos\ProgrammingBasicsOnlineExam-15and16June2019\02.LuchBreak\bin\Debug\netcoreapp3.1\02.LuchBreak.exe
+C:\Users\i_van\source\repos\ProgrammingBasicsOnlineExam-15and16June2019\02.LuchBreak\bin\Debug\netcoreapp3.1\02.LuchBreak.deps.json
+C:\Users\i_van\source\repos\ProgrammingBasicsOnlineExam-15and16June2019\02.LuchBreak\bin\Debug\netcoreapp3.1\02.LuchBreak.runtimeconfig.json
+C:\Users\i_van\source\repos\ProgrammingBasicsOnlineExam-15and16June2019\02.LuchBreak\bin\Debug\netcoreapp3.1\02.LuchBreak.runtimeconfig.dev.json
+C:\Users\i_van\source\repos\ProgrammingBasicsOnlineExam-15and16June2019\02.LuchBreak\bin\Debug\netcoreapp3.1\02.LuchBreak.dll
+C:\Users\i_van\source\repos\ProgrammingBasicsOnlineExam-15and16June2019\02.LuchBreak\bin\Debug\netcoreapp3.1\02.LuchBreak.pdb
+C:\Users\i_van\source\repos\ProgrammingBasicsOnlineExam-15and16June2019\02.LuchBreak\obj\Debug\netcoreapp3.1\02.LuchBreak.csprojAssemblyReference.cache
+C:\Users\i_van\source\repos\ProgrammingBasicsOnlineExam-15and16June2019\02.LuchBreak\obj\Debug\netcoreapp3.1\02.LuchBreak.csproj.CoreCompileInputs.cache
+C:\Users\i_van\source\repos\ProgrammingBasicsOnlineExam-15and16June2019\02.LuchBreak\obj\Debug\netcoreapp3.1\02.LuchBreak.AssemblyInfoInputs.cache
+C:\Users\i_van\source\repos\ProgrammingBasicsOnlineExam-15and16June2019\02.LuchBreak\obj\Debug\netcoreapp3.1\02.LuchBreak.AssemblyInfo.cs
+C:\Users\i_van\source\repos\ProgrammingBasicsOnlineExam-15and16June2019\02.LuchBreak\obj\Debug\netcoreapp3.1\02.LuchBreak.dll
+C:\Users\i_van\source\repos\ProgrammingBasicsOnlineExam-15and16June2019\02.LuchBreak\obj\Debug\netcoreapp3.1\02.LuchBreak.pdb
+C:\Users\i_van\source\repos\ProgrammingBasicsOnlineExam-15and16June2019\02.LuchBreak\obj\Debug\netcoreapp3.1\02.LuchBreak.genruntimeconfig.cache

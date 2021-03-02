@@ -1,0 +1,11 @@
+C:\Users\Ivan\source\repos\ProgrammingBasicsOnlineExam-15and16June2019\06.MovieTickets-Exam2\bin\Debug\netcoreapp3.1\06.MovieTickets-Exam2.exe
+C:\Users\Ivan\source\repos\ProgrammingBasicsOnlineExam-15and16June2019\06.MovieTickets-Exam2\bin\Debug\netcoreapp3.1\06.MovieTickets-Exam2.deps.json
+C:\Users\Ivan\source\repos\ProgrammingBasicsOnlineExam-15and16June2019\06.MovieTickets-Exam2\bin\Debug\netcoreapp3.1\06.MovieTickets-Exam2.runtimeconfig.json
+C:\Users\Ivan\source\repos\ProgrammingBasicsOnlineExam-15and16June2019\06.MovieTickets-Exam2\bin\Debug\netcoreapp3.1\06.MovieTickets-Exam2.runtimeconfig.dev.json
+C:\Users\Ivan\source\repos\ProgrammingBasicsOnlineExam-15and16June2019\06.MovieTickets-Exam2\bin\Debug\netcoreapp3.1\06.MovieTickets-Exam2.dll
+C:\Users\Ivan\source\repos\ProgrammingBasicsOnlineExam-15and16June2019\06.MovieTickets-Exam2\bin\Debug\netcoreapp3.1\06.MovieTickets-Exam2.pdb
+C:\Users\Ivan\source\repos\ProgrammingBasicsOnlineExam-15and16June2019\06.MovieTickets-Exam2\obj\Debug\netcoreapp3.1\06.MovieTickets-Exam2.csprojAssemblyReference.cache
+C:\Users\Ivan\source\repos\ProgrammingBasicsOnlineExam-15and16June2019\06.MovieTickets-Exam2\obj\Debug\netcoreapp3.1\06.MovieTickets-Exam2.AssemblyInfoInputs.cache
+C:\Users\Ivan\source\repos\ProgrammingBasicsOnlineExam-15and16June2019\06.MovieTickets-Exam2\obj\Debug\netcoreapp3.1\06.MovieTickets-Exam2.AssemblyInfo.cs
+C:\Users\Ivan\source\repos\ProgrammingBasicsOnlineExam-15and16June2019\06.MovieTickets-Exam2\obj\Debug\netcoreapp3.1\06.MovieTickets-Exam2.dll
+C:\Users\Ivan\source\repos\ProgrammingBasicsOnlineExam-15and16June2019\06.MovieTickets-Exam2\obj\Debug\netcoreapp3.1\06.MovieTickets-Exam2.pdb
