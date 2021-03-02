@@ -11,4 +11,4 @@ Here you can find my solutions of all tasks (mandatory and optional) from [Progr
 ###### Ivan Stamboliyski
 
 ###### [GitHub](https://github.com/ivanstamboliyski)
-###### [Email](https://github.com/ivanstamboliyski)
+
