@@ -1,5 +1,5 @@
 
-<p><a href="https://softuni.bg/trainings/2808/programming-basics-with-c-sharp-march-2020">ProgrammingBasicsCourse</a></p>
+#ProgrammingBasicsCourse
 
 ------------
 
