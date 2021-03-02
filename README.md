@@ -12,3 +12,8 @@ Here you can find my solutions of all tasks (mandatory and optional) from [Progr
 
 ###### [GitHub](https://github.com/ivanstamboliyski)
 
+------------
+
+### Programming Basics with C# - march 2020
+(https://softuni.bg/certificates/details/81424/530e50fb)
+
