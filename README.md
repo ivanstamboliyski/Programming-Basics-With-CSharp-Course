@@ -14,5 +14,6 @@ Here you can find my solutions of all tasks (mandatory and optional) from [Progr
 
 ------------
 
-### [Programming Basics with C# - march 2020](https://softuni.bg/certificates/details/81424/530e50fb)
+### Certificate from the course
+[Programming Basics with C# - march 2020](https://softuni.bg/certificates/details/81424/530e50fb)
 
